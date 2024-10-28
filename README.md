@@ -1,1 +1,1 @@
-This is the project of Huy, Hung, Mountain, Dragon
+This is the project about title generator for scholarly documentations.
